@@ -37,5 +37,5 @@ The final two rows represent the minutes. The upper row represents 5 minute bloc
   clone the master branch
   
 ```bash
- git clone 
+ git clone https://github.com/developer9923/MyTest.git
 ```
